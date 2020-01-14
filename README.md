@@ -1,4 +1,4 @@
-# rekcah
+#wi-Fi1
 wifi tools
 
 apt update &&  apt upgrade 
